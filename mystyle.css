@@ -2,7 +2,7 @@
     background-color: yellow;  
 }
 
-#kwadrat {
+.wiersz {
     display: inline;
 }
 
@@ -32,4 +32,29 @@
     width: 25%;
     height: 400px;
     float: right;
+}
+
+.kolumna {
+    display: block;
+}
+
+#kwadrat5 {
+    border-style: solid;
+    border-color: coral;
+    width: 400px;
+    height: 400px;
+}
+   
+#kwadrat6 {
+    border-style: solid;
+    border-color: grey;
+    width: 400px;
+    height: 400px;
+}
+ 
+#kwadrat7 {
+    border-style: solid;
+    border-color: green;
+    width: 400px;
+    height: 400px;
 }
