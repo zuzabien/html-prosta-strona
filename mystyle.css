@@ -1,3 +1,35 @@
 #about_us {    
     background-color: yellow;  
 }
+
+#kwadrat {
+    display: inline;
+}
+
+#kwadrat1 {
+    background-color: brown;
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+   
+#kwadrat2 {
+    background-color: lightblue;
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+ 
+#kwadrat3 {
+    background-color: lightgreen;
+    width: 25%;
+    height: 400px;
+    float: right;
+}
+ 
+#kwadrat4 {
+    background-color: yellowgreen;
+    width: 25%;
+    height: 400px;
+    float: right;
+}
